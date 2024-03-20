@@ -36,7 +36,7 @@ minos-microservice-networks = "^0.0.1"
 minos-microservice-saga = "^0.0.2"
 
 [tool.poetry.dev-dependencies]
-black = "^19.10b"
+black = "^24.3"
 isort = "^5.8.0"
 pytest = "^6.2.4"
 coverage = "^5.5"
